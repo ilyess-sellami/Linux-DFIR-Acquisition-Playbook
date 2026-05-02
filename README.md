@@ -1,4 +1,4 @@
-<h1 align="center">🐧 Linux DFIR Acquisition Playbook</h1>
+<h1 align="center">Linux DFIR Acquisition Playbook</h1>
 
 <p align="center">
   <b>Linux forensic acquisition workflow for incident response and evidence collection</b>
