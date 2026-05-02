@@ -49,6 +49,6 @@ This playbook is designed to help you:
 
 ## 🪟 Related Project
 
-🔗 https://github.com/ilyess-sellami/DFIR-Windows-Acquisition-Playbook
+Windows DFIR acquisition workflow for incident response and evidence collection:
 
-Windows DFIR acquisition workflow for incident response and evidence collection.
+🔗 https://github.com/ilyess-sellami/DFIR-Windows-Acquisition-Playbook
