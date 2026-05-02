@@ -47,13 +47,8 @@ This playbook is designed to help you:
 
 ---
 
-## 🏁 Operational Summary
+## 🪟 Related Project
 
-This playbook provides a **practical workflow for Linux incident response**.
+🔗 https://github.com/ilyess-sellami/DFIR-Windows-Acquisition-Playbook
 
-It is designed to be used in:
-
-- Live incident response situations
-- SOC investigations
-- Digital forensics workflows
-- Threat hunting activities
+Windows DFIR acquisition workflow for incident response and evidence collection.
