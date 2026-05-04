@@ -35,7 +35,7 @@ This playbook is designed to help you:
 
 ## 📚 Table of Contents
 
-1. [Live System Snapshot (First Response)](live-system-snapshot.md)
+1. [Live System Snapshot (First Response)](01-live-system-snapshot.md)
 2. [Memory Acquisition]()
 3. [Disk Acquisition]()
 4. [Log Collection & Analysis]()
