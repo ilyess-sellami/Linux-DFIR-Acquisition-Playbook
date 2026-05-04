@@ -36,7 +36,7 @@ This playbook is designed to help you:
 ## 📚 Table of Contents
 
 1. [Live System Snapshot (First Response)](01-live-system-snapshot.md)
-2. [Memory Acquisition]()
+2. [Memory Acquisition](02-memory-acquisition.md)
 3. [Disk Acquisition]()
 4. [Log Collection & Analysis]()
 5. [Persistence Investigation]()
