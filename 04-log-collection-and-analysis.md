@@ -190,3 +190,11 @@ SMB file sharing activity:
 ```bash
 /var/log/samba/
 ```
+
+---
+
+## Syslog
+
+```bash
+/var/log/syslog
+```
