@@ -193,7 +193,7 @@ SMB file sharing activity:
 
 ---
 
-## Syslog
+### 9. Syslog
 
 ```bash
 /var/log/syslog
