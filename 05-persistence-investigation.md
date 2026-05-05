@@ -112,8 +112,17 @@ cat /etc/profile
 
 ### 6. Suspicious Binaries & Hidden Files
 
+Common attacker staging directories.
+
 ```bash
 /tmp
 /dev/shm
 /var/tmp
+```
+
+**Live Linux check:**
+
+```bash
+ls -la /tmp
+ls -la /dev/shm
 ```
