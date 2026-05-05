@@ -131,7 +131,7 @@ Modern package manager logs:
 
 ---
 
-## 5. Scheduled Tasks & Cron Logs
+### 5. Scheduled Tasks & Cron Logs
 
 ```bash
 /var/log/cron
@@ -139,7 +139,7 @@ Modern package manager logs:
 
 ---
 
-## 6. Security & Firewall Logs
+### 6. Security & Firewall Logs
 
 Allowed/blocked traffic:
 
