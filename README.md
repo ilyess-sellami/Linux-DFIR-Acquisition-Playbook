@@ -40,7 +40,7 @@ This playbook is designed to help you:
 3. [Disk Acquisition](03-disk-acquisition.md)
 4. [Log Collection & Analysis](04-log-collection-and-analysis.md)
 5. [Persistence Investigation](05-persistence-investigation.md)
-6. [User-Level Artifacts]()
+6. [User-Level Artifacts](06-user-level-artifacts.md)
 7. [Network State & Indicators]()
 8. [File System & Timeline Analysis]()
 9. [Rootkit & Integrity Checks]()
