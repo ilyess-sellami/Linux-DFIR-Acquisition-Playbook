@@ -39,7 +39,7 @@ This playbook is designed to help you:
 2. [Memory Acquisition](02-memory-acquisition.md)
 3. [Disk Acquisition](03-disk-acquisition.md)
 4. [Log Collection & Analysis](04-log-collection-and-analysis.md)
-5. [Persistence Investigation]()
+5. [Persistence Investigation](05-persistence-investigation.md)
 6. [User-Level Artifacts]()
 7. [Network State & Indicators]()
 8. [File System & Timeline Analysis]()

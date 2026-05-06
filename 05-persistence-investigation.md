@@ -110,6 +110,8 @@ cat ~/.bashrc
 cat /etc/profile
 ```
 
+---
+
 ### 6. Suspicious Binaries & Hidden Files
 
 Common attacker staging directories.
