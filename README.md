@@ -42,7 +42,7 @@ This playbook is designed to help you:
 5. [Persistence Investigation](05-persistence-investigation.md)
 6. [User-Level Artifacts](06-user-level-artifacts.md)
 7. [Network State & Indicators](07-network-state-and-indicators.md)
-8. [File System & Timeline Analysis]()
+8. [File System & Timeline Analysis](08-file-system-and-timeline-analysis.md)
 9. [Rootkit & Integrity Checks]()
 
 ---
